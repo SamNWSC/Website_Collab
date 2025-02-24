@@ -1,2 +1,2 @@
 # Website_Collab
-#### Pull
+##### Added information about huts and images to go with them.  
